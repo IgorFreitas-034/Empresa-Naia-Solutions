@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #4567b7; /* Cor de fundo azul */
+  }
+
+  .logo {
+    width: 100px; /* Tamanho da imagem */
+    height: 100px; /* Tamanho da imagem */
+    border-radius: 50%; /* Deixa a imagem redonda */
+    float: left; /* Posiciona a imagem no canto esquerdo */
+    margin: 10px; /* Espaço entre a imagem e o conteúdo */
+  }
+  
+  
+  .titulo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff; /* Cor do texto branco */
+  }
+  
+  .secao {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #6495ed; /* Cor de fundo das seções */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h2, h3 {
+    color: black; 
+  }
+  
+  p, li {
+    color: black; 
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  footer {
+    background-color: #4567b7; /* Cor de fundo do rodapé */
+    color:#fff;
+    text-align: center;
+    padding: 10px;
+  }
